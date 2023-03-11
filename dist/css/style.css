@@ -129,7 +129,6 @@ body {
 
   100% {
     transform: translateY(60px);
-    /* transform: translateY(20px); */
     opacity: 0;
   }
 }
@@ -157,7 +156,6 @@ body {
   }
 
   100% {
-    /* transform: translateY(20px); */
     opacity: 0;
   }
 }
@@ -184,7 +182,6 @@ body {
     opacity: 0;
   }
   100% {
-    /* transform: translateY(20px); */
     opacity: 0;
   }
 }
@@ -213,6 +210,5 @@ body {
 @keyframes TextRotate {
   100% {
     transform: rotate(-180deg);
-    /* transition: all 1s linear; */
   }
 }
